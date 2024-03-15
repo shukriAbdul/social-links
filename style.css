@@ -58,6 +58,9 @@
 .container ul li button a{
     color: white;
 }
+.container ul li button a:hover{
+    color: hsl(0, 0%, 8%);
+}
 .container ul li button{
     width: 100%;
     background-color: hsl(0, 0%, 18%);
@@ -72,7 +75,7 @@
 }
 .container ul li button:hover{
     background-color: hsl(75, 94%, 57%);
-    color: hsl(0, 0%, 8%);
+   
 }
 .attribution {
      font-size: 13px;
